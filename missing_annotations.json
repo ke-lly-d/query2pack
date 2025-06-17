@@ -1,0 +1,184 @@
+{
+  "task_tool_mappings": [
+    {
+      "user_idx": 1558,
+      "task_idx": 0,
+      "task": "Troubleshoot internet connection issues for 10 employees",
+      "tool_to_search": "Confluence"
+    },
+    {
+      "user_idx": 1558,
+      "task_idx": 1,
+      "task": "Update knowledge base articles on streaming device support",
+      "tool_to_search": "Confluence"
+    },
+    {
+      "user_idx": 1558,
+      "task_idx": 2,
+      "task": "Respond to 25 customer inquiries via phone and email",
+      "tool_to_search": "Gmail"
+    },
+    {
+      "user_idx": 1558,
+      "task_idx": 3,
+      "task": "Monitor ticket volume and prioritize tasks for resolution",
+      "tool_to_search": "Jira"
+    },
+    {
+      "user_idx": 1558,
+      "task_idx": 4,
+      "task": "Implement new software update for IT system maintenance",
+      "tool_to_search": "Confluence"
+    },
+    {
+      "user_idx": 1558,
+      "task_idx": 5,
+      "task": "Research alternative solutions for outdated hardware",
+      "tool_to_search": "Confluence"
+    },
+    {
+      "user_idx": 1558,
+      "task_idx": 6,
+      "task": "Collaborate with IT team to resolve network congestion issues",
+      "tool_to_search": "Slack"
+    },
+    {
+      "user_idx": 1558,
+      "task_idx": 7,
+      "task": "Document troubleshooting steps for common browser errors",
+      "tool_to_search": "Google Doc"
+    },
+    {
+      "user_idx": 1558,
+      "task_idx": 8,
+      "task": "Schedule training session on cybersecurity best practices",
+      "tool_to_search": "Google Slides"
+    },
+    {
+      "user_idx": 1558,
+      "task_idx": 9,
+      "task": "Analyze call center metrics to optimize customer support process",
+      "tool_to_search": "Google Sheets"
+    },
+    {
+      "user_idx": 9440,
+      "task_idx": 0,
+      "task": "Respond to 5 customer emails regarding delayed shipments",
+      "tool_to_search": "Gmail"
+    },
+    {
+      "user_idx": 9440,
+      "task_idx": 1,
+      "task": "Investigate and resolve a hardware issue with a critical machine component",
+      "tool_to_search": "Jira"
+    },
+    {
+      "user_idx": 9440,
+      "task_idx": 2,
+      "task": "Update product documentation for new material introduction",
+      "tool_to_search": "Confluence"
+    },
+    {
+      "user_idx": 9440,
+      "task_idx": 3,
+      "task": "Conduct a training session on safety protocols for newly hired staff",
+      "tool_to_search": "Google Slides"
+    },
+    {
+      "user_idx": 9440,
+      "task_idx": 4,
+      "task": "Process 10 warranty claims from satisfied customers",
+      "tool_to_search": "Google Sheets"
+    },
+    {
+      "user_idx": 9440,
+      "task_idx": 5,
+      "task": "Research and recommend alternative suppliers for discontinued components",
+      "tool_to_search": "Confluence"
+    },
+    {
+      "user_idx": 9440,
+      "task_idx": 6,
+      "task": "Collaborate with internal teams to schedule a production line maintenance window",
+      "tool_to_search": "Slack"
+    },
+    {
+      "user_idx": 9440,
+      "task_idx": 7,
+      "task": "Respond to customer inquiries about product usage and troubleshooting",
+      "tool_to_search": "Google Sheets"
+    },
+    {
+      "user_idx": 9440,
+      "task_idx": 8,
+      "task": "Analyze sales data to identify trends and opportunities for growth",
+      "tool_to_search": "Miro"
+    },
+    {
+      "user_idx": 9440,
+      "task_idx": 9,
+      "task": "Develop a script to automate routine customer support responses",
+      "tool_to_search": "GitHub"
+    },
+    {
+      "user_idx": 6626,
+      "task_idx": 0,
+      "task": "Reviewing and optimizing ad campaigns for improved ROI",
+      "tool_to_search": "Confluence"
+    },
+    {
+      "user_idx": 6626,
+      "task_idx": 1,
+      "task": "Creating a comprehensive report on campaign performance metrics",
+      "tool_to_search": "Google Sheets"
+    },
+    {
+      "user_idx": 6626,
+      "task_idx": 2,
+      "task": "Meeting with cross-functional team to discuss ad spend allocation",
+      "tool_to_search": "Google Docs"
+    },
+    {
+      "user_idx": 6626,
+      "task_idx": 3,
+      "task": "Developing a social media strategy for new product launch",
+      "tool_to_search": "Confluence"
+    },
+    {
+      "user_idx": 6626,
+      "task_idx": 4,
+      "task": "Designing eye-catching ad creatives for upcoming trade show",
+      "tool_to_search": "Google Slides"
+    },
+    {
+      "user_idx": 6626,
+      "task_idx": 5,
+      "task": "Analyzing website traffic patterns to identify areas for improvement",
+      "tool_to_search": "Google Sheets"
+    },
+    {
+      "user_idx": 6626,
+      "task_idx": 6,
+      "task": "Collaborating with sales team to create targeted lead gen campaigns",
+      "tool_to_search": "Slack"
+    },
+    {
+      "user_idx": 6626,
+      "task_idx": 7,
+      "task": "Researching and recommending new ad formats to explore",
+      "tool_to_search": "Miro"
+    },
+    {
+      "user_idx": 6626,
+      "task_idx": 8,
+      "task": "Creating a budget plan for up-and-coming advertising initiatives",
+      "tool_to_search": "Google Sheets"
+    },
+    {
+      "user_idx": 6626,
+      "task_idx": 9,
+      "task": "Testing and refining ad targeting options to improve customer engagement",
+      "tool_to_search": "Coda"
+    }
+  ]
+}

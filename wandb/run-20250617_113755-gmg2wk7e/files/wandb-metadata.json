@@ -1,0 +1,39 @@
+{
+  "os":  "macOS-14.7.6-arm64-arm-64bit-Mach-O",
+  "python":  "CPython 3.13.2",
+  "startedAt":  "2025-06-17T18:37:56.041068Z",
+  "program":  "/Users/kellydeng/Desktop/query2pack/bow_rf.ipynb",
+  "codePath":  "bow_rf.ipynb",
+  "email":  "kelly.deng@grammarly.com",
+  "root":  "/Users/kellydeng/Desktop/query2pack",
+  "host":  "AMMM670Q636VK",
+  "executable":  "/opt/miniconda3/envs/myenv/bin/python",
+  "codePathLocal":  "bow_rf.ipynb",
+  "cpu_count":  12,
+  "cpu_count_logical":  12,
+  "disk":  {
+    "/":  {
+      "total":  "494384795648",
+      "used":  "103475056640"
+    },
+    "/System/Volumes/Data":  {
+      "total":  "494384795648",
+      "used":  "103475056640"
+    }
+  },
+  "memory":  {
+    "total":  "38654705664"
+  },
+  "cpu":  {
+    "count":  12,
+    "countLogical":  12
+  },
+  "apple":  {
+    "name":  "Apple M3 Pro",
+    "ecpuCores":  6,
+    "pcpuCores":  6,
+    "gpuCores":  18,
+    "memoryGb":  36,
+    "ramTotalBytes":  "38654705664"
+  }
+}

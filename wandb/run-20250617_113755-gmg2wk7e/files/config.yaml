@@ -1,0 +1,44 @@
+_wandb:
+    value:
+        cli_version: 0.20.1
+        code_path: source-pack-intent-_Users_kellydeng_Desktop_query2pack_bow_rf.ipynb
+        m: []
+        python_version: 3.13.2
+        t:
+            "1":
+                - 5
+                - 53
+            "2":
+                - 5
+                - 53
+            "3":
+                - 2
+                - 13
+                - 16
+                - 55
+            "4": 3.13.2
+            "5": 0.20.1
+            "8":
+                - 1
+            "12": 0.20.1
+            "13": darwin-arm64
+        viz:
+            confusion_matrix:
+                historyFieldSettings:
+                    key: confusion_matrix
+                    x-axis: _step
+                id: wandb/confusion_matrix/v1
+max_features:
+    value: 5000
+model:
+    value: RandomForest
+n_estimators:
+    value: 100
+ngram_range:
+    value:
+        - 1
+        - 2
+stop_words:
+    value: english
+vectorizer:
+    value: Tfidf

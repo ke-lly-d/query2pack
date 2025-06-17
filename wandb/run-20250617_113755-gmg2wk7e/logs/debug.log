@@ -1,0 +1,80 @@
+2025-06-17 11:37:55,183 INFO    MainThread:46305 [wandb_setup.py:_flush():81] Current SDK version is 0.20.1
+2025-06-17 11:37:55,184 INFO    MainThread:46305 [wandb_setup.py:_flush():81] Configure stats pid to 46305
+2025-06-17 11:37:55,184 INFO    MainThread:46305 [wandb_setup.py:_flush():81] Loading settings from /Users/kellydeng/.config/wandb/settings
+2025-06-17 11:37:55,184 INFO    MainThread:46305 [wandb_setup.py:_flush():81] Loading settings from /Users/kellydeng/Desktop/query2pack/wandb/settings
+2025-06-17 11:37:55,184 INFO    MainThread:46305 [wandb_setup.py:_flush():81] Loading settings from environment variables
+2025-06-17 11:37:55,184 INFO    MainThread:46305 [wandb_init.py:setup_run_log_directory():703] Logging user logs to /Users/kellydeng/Desktop/query2pack/wandb/run-20250617_113755-gmg2wk7e/logs/debug.log
+2025-06-17 11:37:55,184 INFO    MainThread:46305 [wandb_init.py:setup_run_log_directory():704] Logging internal logs to /Users/kellydeng/Desktop/query2pack/wandb/run-20250617_113755-gmg2wk7e/logs/debug-internal.log
+2025-06-17 11:37:55,184 INFO    MainThread:46305 [wandb_init.py:monkeypatch_ipython():622] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x3df471010>
+2025-06-17 11:37:55,185 INFO    MainThread:46305 [wandb_init.py:init():831] calling init triggers
+2025-06-17 11:37:55,185 INFO    MainThread:46305 [wandb_init.py:init():836] wandb.init called with sweep_config: {}
+config: {'model': 'RandomForest', 'vectorizer': 'Tfidf', 'ngram_range': (1, 2), 'stop_words': 'english', 'max_features': 5000, 'n_estimators': 100, '_wandb': {'code_path': 'code/bow_rf.ipynb'}}
+2025-06-17 11:37:55,185 INFO    MainThread:46305 [wandb_init.py:init():872] starting backend
+2025-06-17 11:37:56,022 INFO    MainThread:46305 [wandb_init.py:init():875] sending inform_init request
+2025-06-17 11:37:56,040 INFO    MainThread:46305 [wandb_init.py:init():883] backend started and connected
+2025-06-17 11:37:56,043 INFO    MainThread:46305 [wandb_run.py:_label_probe_notebook():1299] probe notebook
+2025-06-17 11:37:56,043 INFO    MainThread:46305 [wandb_init.py:init():956] updated telemetry
+2025-06-17 11:37:56,043 INFO    MainThread:46305 [wandb_init.py:init():980] communicating run to backend with 90.0 second timeout
+2025-06-17 11:37:57,231 INFO    MainThread:46305 [wandb_init.py:init():1032] starting run threads in backend
+2025-06-17 11:37:57,279 INFO    MainThread:46305 [wandb_run.py:_console_start():2453] atexit reg
+2025-06-17 11:37:57,279 INFO    MainThread:46305 [wandb_run.py:_redirect():2301] redirect: wrap_raw
+2025-06-17 11:37:57,279 INFO    MainThread:46305 [wandb_run.py:_redirect():2370] Wrapping output streams.
+2025-06-17 11:37:57,279 INFO    MainThread:46305 [wandb_run.py:_redirect():2393] Redirects installed.
+2025-06-17 11:37:57,280 INFO    MainThread:46305 [wandb_init.py:init():1078] run started, returning control to user process
+2025-06-17 11:37:57,281 INFO    MainThread:46305 [wandb_init.py:_post_run_cell_hook():592] [no run ID] resuming backend
+2025-06-17 11:38:15,779 INFO    MainThread:46305 [jupyter.py:_save_ipynb():416] [no run ID] looking for notebook: /Users/kellydeng/Desktop/query2pack/bow_rf.ipynb
+2025-06-17 11:38:16,343 INFO    MainThread:46305 [wandb_run.py:_config_callback():1358] config_cb None None {'_wandb': {'code_path': 'source-pack-intent-_Users_kellydeng_Desktop_query2pack_bow_rf.ipynb'}}
+2025-06-17 11:38:16,343 INFO    MainThread:46305 [wandb_init.py:_pre_run_cell_hook():578] [no run ID] saved code: <Artifact source-pack-intent-_Users_kellydeng_Desktop_query2pack_bow_rf.ipynb>
+2025-06-17 11:38:16,344 INFO    MainThread:46305 [wandb_init.py:_pre_run_cell_hook():581] [no run ID] pausing backend
+2025-06-17 11:38:17,440 INFO    MainThread:46305 [wandb_init.py:_post_run_cell_hook():592] [no run ID] resuming backend
+2025-06-17 11:38:28,979 INFO    MainThread:46305 [jupyter.py:_save_ipynb():416] [no run ID] looking for notebook: /Users/kellydeng/Desktop/query2pack/bow_rf.ipynb
+2025-06-17 11:38:29,369 INFO    MainThread:46305 [wandb_run.py:_config_callback():1358] config_cb None None {'_wandb': {'code_path': 'source-pack-intent-_Users_kellydeng_Desktop_query2pack_bow_rf.ipynb'}}
+2025-06-17 11:38:29,369 INFO    MainThread:46305 [wandb_init.py:_pre_run_cell_hook():578] [no run ID] saved code: <Artifact source-pack-intent-_Users_kellydeng_Desktop_query2pack_bow_rf.ipynb>
+2025-06-17 11:38:29,369 INFO    MainThread:46305 [wandb_init.py:_pre_run_cell_hook():581] [no run ID] pausing backend
+2025-06-17 11:38:35,744 INFO    MainThread:46305 [wandb_init.py:_post_run_cell_hook():592] [no run ID] resuming backend
+2025-06-17 11:38:55,626 INFO    MainThread:46305 [jupyter.py:_save_ipynb():416] [no run ID] looking for notebook: /Users/kellydeng/Desktop/query2pack/bow_rf.ipynb
+2025-06-17 11:38:56,199 INFO    MainThread:46305 [wandb_run.py:_config_callback():1358] config_cb None None {'_wandb': {'code_path': 'source-pack-intent-_Users_kellydeng_Desktop_query2pack_bow_rf.ipynb'}}
+2025-06-17 11:38:56,199 INFO    MainThread:46305 [wandb_init.py:_pre_run_cell_hook():578] [no run ID] saved code: <Artifact source-pack-intent-_Users_kellydeng_Desktop_query2pack_bow_rf.ipynb>
+2025-06-17 11:38:56,199 INFO    MainThread:46305 [wandb_init.py:_pre_run_cell_hook():581] [no run ID] pausing backend
+2025-06-17 12:34:00,630 INFO    MainThread:46305 [wandb_init.py:_post_run_cell_hook():592] [no run ID] resuming backend
+2025-06-17 13:12:44,206 INFO    MainThread:46305 [jupyter.py:_save_ipynb():416] [no run ID] looking for notebook: /Users/kellydeng/Desktop/query2pack/bow_rf.ipynb
+2025-06-17 13:12:44,619 INFO    MainThread:46305 [wandb_run.py:_config_callback():1358] config_cb None None {'_wandb': {'code_path': 'source-pack-intent-_Users_kellydeng_Desktop_query2pack_bow_rf.ipynb'}}
+2025-06-17 13:12:44,619 INFO    MainThread:46305 [wandb_init.py:_pre_run_cell_hook():578] [no run ID] saved code: <Artifact source-pack-intent-_Users_kellydeng_Desktop_query2pack_bow_rf.ipynb>
+2025-06-17 13:12:44,619 INFO    MainThread:46305 [wandb_init.py:_pre_run_cell_hook():581] [no run ID] pausing backend
+2025-06-17 13:12:44,623 INFO    MainThread:46305 [wandb_init.py:_post_run_cell_hook():592] [no run ID] resuming backend
+2025-06-17 13:12:48,699 INFO    MainThread:46305 [jupyter.py:_save_ipynb():416] [no run ID] looking for notebook: /Users/kellydeng/Desktop/query2pack/bow_rf.ipynb
+2025-06-17 13:12:49,257 INFO    MainThread:46305 [wandb_run.py:_config_callback():1358] config_cb None None {'_wandb': {'code_path': 'source-pack-intent-_Users_kellydeng_Desktop_query2pack_bow_rf.ipynb'}}
+2025-06-17 13:12:49,257 INFO    MainThread:46305 [wandb_init.py:_pre_run_cell_hook():578] [no run ID] saved code: <Artifact source-pack-intent-_Users_kellydeng_Desktop_query2pack_bow_rf.ipynb>
+2025-06-17 13:12:49,258 INFO    MainThread:46305 [wandb_init.py:_pre_run_cell_hook():581] [no run ID] pausing backend
+2025-06-17 13:12:49,261 INFO    MainThread:46305 [wandb_init.py:_post_run_cell_hook():592] [no run ID] resuming backend
+2025-06-17 13:12:49,271 INFO    MainThread:46305 [jupyter.py:_save_ipynb():416] [no run ID] looking for notebook: /Users/kellydeng/Desktop/query2pack/bow_rf.ipynb
+2025-06-17 13:12:49,676 INFO    MainThread:46305 [wandb_run.py:_config_callback():1358] config_cb None None {'_wandb': {'code_path': 'source-pack-intent-_Users_kellydeng_Desktop_query2pack_bow_rf.ipynb'}}
+2025-06-17 13:12:49,676 INFO    MainThread:46305 [wandb_init.py:_pre_run_cell_hook():578] [no run ID] saved code: <Artifact source-pack-intent-_Users_kellydeng_Desktop_query2pack_bow_rf.ipynb>
+2025-06-17 13:12:49,676 INFO    MainThread:46305 [wandb_init.py:_pre_run_cell_hook():581] [no run ID] pausing backend
+2025-06-17 13:12:49,678 INFO    MainThread:46305 [wandb_init.py:_post_run_cell_hook():592] [no run ID] resuming backend
+2025-06-17 13:12:49,682 INFO    MainThread:46305 [jupyter.py:_save_ipynb():416] [no run ID] looking for notebook: /Users/kellydeng/Desktop/query2pack/bow_rf.ipynb
+2025-06-17 13:12:50,080 INFO    MainThread:46305 [wandb_run.py:_config_callback():1358] config_cb None None {'_wandb': {'code_path': 'source-pack-intent-_Users_kellydeng_Desktop_query2pack_bow_rf.ipynb'}}
+2025-06-17 13:12:50,081 INFO    MainThread:46305 [wandb_init.py:_pre_run_cell_hook():578] [no run ID] saved code: <Artifact source-pack-intent-_Users_kellydeng_Desktop_query2pack_bow_rf.ipynb>
+2025-06-17 13:12:50,081 INFO    MainThread:46305 [wandb_init.py:_pre_run_cell_hook():581] [no run ID] pausing backend
+2025-06-17 13:12:50,082 INFO    MainThread:46305 [wandb_init.py:_post_run_cell_hook():592] [no run ID] resuming backend
+2025-06-17 13:12:50,085 INFO    MainThread:46305 [jupyter.py:_save_ipynb():416] [no run ID] looking for notebook: /Users/kellydeng/Desktop/query2pack/bow_rf.ipynb
+2025-06-17 13:12:50,502 INFO    MainThread:46305 [wandb_run.py:_config_callback():1358] config_cb None None {'_wandb': {'code_path': 'source-pack-intent-_Users_kellydeng_Desktop_query2pack_bow_rf.ipynb'}}
+2025-06-17 13:12:50,503 INFO    MainThread:46305 [wandb_init.py:_pre_run_cell_hook():578] [no run ID] saved code: <Artifact source-pack-intent-_Users_kellydeng_Desktop_query2pack_bow_rf.ipynb>
+2025-06-17 13:12:50,503 INFO    MainThread:46305 [wandb_init.py:_pre_run_cell_hook():581] [no run ID] pausing backend
+2025-06-17 13:12:50,507 INFO    MainThread:46305 [wandb_init.py:_post_run_cell_hook():592] [no run ID] resuming backend
+2025-06-17 13:12:57,901 INFO    MainThread:46305 [jupyter.py:_save_ipynb():416] [no run ID] looking for notebook: /Users/kellydeng/Desktop/query2pack/bow_rf.ipynb
+2025-06-17 13:12:58,319 INFO    MainThread:46305 [wandb_run.py:_config_callback():1358] config_cb None None {'_wandb': {'code_path': 'source-pack-intent-_Users_kellydeng_Desktop_query2pack_bow_rf.ipynb'}}
+2025-06-17 13:12:58,319 INFO    MainThread:46305 [wandb_init.py:_pre_run_cell_hook():578] [no run ID] saved code: <Artifact source-pack-intent-_Users_kellydeng_Desktop_query2pack_bow_rf.ipynb>
+2025-06-17 13:12:58,319 INFO    MainThread:46305 [wandb_init.py:_pre_run_cell_hook():581] [no run ID] pausing backend
+2025-06-17 13:13:20,096 INFO    MainThread:46305 [wandb_run.py:_config_callback():1358] config_cb ('_wandb', 'viz', 'confusion_matrix') {'id': 'wandb/confusion_matrix/v1', 'historyFieldSettings': {'x-axis': '_step', 'key': 'confusion_matrix'}} None
+2025-06-17 13:13:21,050 INFO    MainThread:46305 [wandb_run.py:_finish():2219] finishing run fa-orchestra-brain/pack-intent/gmg2wk7e
+2025-06-17 13:13:21,053 INFO    MainThread:46305 [jupyter.py:_save_ipynb():416] looking for notebook: /Users/kellydeng/Desktop/query2pack/bow_rf.ipynb
+2025-06-17 13:13:21,454 INFO    MainThread:46305 [wandb_run.py:_config_callback():1358] config_cb None None {'_wandb': {'code_path': 'source-pack-intent-_Users_kellydeng_Desktop_query2pack_bow_rf.ipynb'}}
+2025-06-17 13:13:21,454 INFO    MainThread:46305 [wandb_init.py:_jupyter_teardown():606] saved code and history: <Artifact source-pack-intent-_Users_kellydeng_Desktop_query2pack_bow_rf.ipynb>
+2025-06-17 13:13:21,454 INFO    MainThread:46305 [wandb_init.py:_jupyter_teardown():607] cleaning up jupyter logic
+2025-06-17 13:13:21,454 INFO    MainThread:46305 [wandb_run.py:_atexit_cleanup():2418] got exitcode: 0
+2025-06-17 13:13:21,454 INFO    MainThread:46305 [wandb_run.py:_restore():2400] restore
+2025-06-17 13:13:21,454 INFO    MainThread:46305 [wandb_run.py:_restore():2406] restore done
+2025-06-17 13:13:22,363 INFO    MainThread:46305 [wandb_run.py:_footer_history_summary_info():4000] rendering history
+2025-06-17 13:13:22,364 INFO    MainThread:46305 [wandb_run.py:_footer_history_summary_info():4032] rendering summary
+2025-06-17 13:13:22,365 INFO    MainThread:46305 [wandb_run.py:_footer_sync_info():3961] logging synced files

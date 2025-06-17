@@ -1,0 +1,35 @@
+{"time":"2025-06-17T11:37:56.042332-07:00","level":"INFO","msg":"stream: starting","core version":"0.20.1","symlink path":"/Users/kellydeng/Desktop/query2pack/wandb/run-20250617_113755-gmg2wk7e/logs/debug-core.log"}
+{"time":"2025-06-17T11:37:57.075967-07:00","level":"ERROR","msg":"Failed to load features, feature will default to disabled","error":"input:4:3: Cannot query field \"features\" on type \"ServerInfo\".\n"}
+{"time":"2025-06-17T11:37:57.076248-07:00","level":"INFO","msg":"stream: created new stream","id":"gmg2wk7e"}
+{"time":"2025-06-17T11:37:57.076277-07:00","level":"INFO","msg":"stream: started","id":"gmg2wk7e"}
+{"time":"2025-06-17T11:37:57.076304-07:00","level":"INFO","msg":"writer: Do: started","stream_id":"gmg2wk7e"}
+{"time":"2025-06-17T11:37:57.076321-07:00","level":"INFO","msg":"sender: started","stream_id":"gmg2wk7e"}
+{"time":"2025-06-17T11:37:57.076315-07:00","level":"INFO","msg":"handler: started","stream_id":"gmg2wk7e"}
+{"time":"2025-06-17T11:37:57.23266-07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-06-17T11:37:57.232974-07:00","level":"ERROR","msg":"git repo not found","error":"repository does not exist"}
+{"time":"2025-06-17T11:38:16.344306-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-06-17T11:38:17.441272-07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-06-17T11:38:29.369767-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-06-17T11:38:35.745194-07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-06-17T11:38:56.199765-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-06-17T12:34:00.630893-07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-06-17T13:12:44.619771-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-06-17T13:12:44.624245-07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-06-17T13:12:49.258389-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-06-17T13:12:49.262306-07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-06-17T13:12:49.676802-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-06-17T13:12:49.678634-07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-06-17T13:12:50.081147-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-06-17T13:12:50.082297-07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-06-17T13:12:50.503859-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-06-17T13:12:50.507882-07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-06-17T13:12:58.320439-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-06-17T13:13:21.454816-07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-06-17T13:13:21.454872-07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-06-17T13:13:21.922093-07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-06-17T13:13:22.358861-07:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-06-17T13:13:22.370665-07:00","level":"INFO","msg":"stream: closing","id":"gmg2wk7e"}
+{"time":"2025-06-17T13:13:22.370756-07:00","level":"INFO","msg":"handler: closed","stream_id":"gmg2wk7e"}
+{"time":"2025-06-17T13:13:22.370779-07:00","level":"INFO","msg":"writer: Close: closed","stream_id":"gmg2wk7e"}
+{"time":"2025-06-17T13:13:22.370802-07:00","level":"INFO","msg":"sender: closed","stream_id":"gmg2wk7e"}
+{"time":"2025-06-17T13:13:22.371289-07:00","level":"INFO","msg":"stream: closed","id":"gmg2wk7e"}
